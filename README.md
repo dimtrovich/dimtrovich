@@ -12,7 +12,7 @@
 ##### NOW
 
 - 👑 Backend Developer at [Mayem Solutions](https://mayem-solutions.com)
-- 🐻 Creator of [dFramework](https://github.com/Dimtrovich/dFramework) and [BlitzPHP](https://github.com/blitz-php/framework) 
+- 🐻 Creator of [dFramework](https://github.com/Dimtrov/dFramework) and [BlitzPHP](https://github.com/blitz-php/framework) 
 - 🐻 Co-founder of [IT Space SAS](https://itspace-cm.com) 
 - 🪐 Open Source enthusiast
 - ⚙️ Practicing and learning
@@ -24,8 +24,8 @@
 - 🌍 I'm mostly active within the **CodeIgniter Community**
 - 🌱 Web artisan
 - 💬 Ping me about **codeigniter**, **php**, **poo**, **best practises**, **web development**, **vueJS**
-<!-- 🐦 Follow me: [twitter.com/NordCoders](https://twitter.com/NordCoders)
-- 🌊 Pro fact: Living under the sea-->
+- 🐦 Follow me: [twitter.com/DimitriSitchet](https://twitter.com/DimitriSitchet)
+<!-- - 🌊 Pro fact: Living under the sea-->
 
 <!--
 **dimtrovich/dimtrovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
